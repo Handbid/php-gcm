@@ -4,16 +4,13 @@
     "keywords": ["library", "gcm", "php", "android"],
     "homepage": "https://github.com/Handbid/php-gcm",
     "license": "Apache-2.0",
+    "version": "1.1.1-alpha",
     "authors": [
         {
             "name": "Luke Korth",
             "email": "luke@lukekorth.com"
         }
     ],
-	"support": {
-		"issues": "https://github.com/lkorth/php-gcm/issues",
-		"source": "https://github.com/lkorth/php-gcm"
-	},
     "autoload": {
         "psr-0": { "PHP_GCM": "src/" }
     },
