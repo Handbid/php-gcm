@@ -1,5 +1,5 @@
 {
-    "name": "Handbid/php-gcm",
+    "name": "handbid/php-gcm",
     "description": "A PHP library for sending GCM messages",
     "keywords": ["library", "gcm", "php", "android"],
     "homepage": "https://github.com/Handbid/php-gcm",
