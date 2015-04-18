@@ -2,7 +2,8 @@
     "name": "Handbid/php-gcm",
     "description": "A PHP library for sending GCM messages",
     "keywords": ["library", "gcm", "php", "android"],
-    "homepage": "https://github.com/lkorth/php-gcm",
+    "version": "1.0.0",
+    "homepage": "https://github.com/Handbid/php-gcm",
     "license": "Apache-2.0",
     "authors": [
         {
